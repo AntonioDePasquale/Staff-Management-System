@@ -1,0 +1,12 @@
+CSC8011, Introduction to Software Development, 1, 10
+CSC8012, Software Development Techniques and Tools, 1, 10
+CSC8013, Professional skills and Portfolio, 1, 10
+CSC8014, Software Development Advanced Techniques, 2, 10
+CSC8015, Cybersecurity, 2, 10
+CSC8016, Advanced Programming, 2, 10
+CSC8017, Database Systems, 1, 10
+CSC8018, Web Technologies, 1, 10
+CSC8019, Software Engineering and Team Project, 2, 20
+CSC8021, Computer Networks, 1, 10
+CSC8022, Human Computer Interaction, 2, 10
+CSC8099, Project and Dissertation for MSc Computer Science, 2, 60
